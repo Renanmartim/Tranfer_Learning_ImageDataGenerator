@@ -3,6 +3,8 @@
 
   <p>This repository contains code for building and training a convolutional neural network (CNN) model using transferlearning with the VGG16 architecture to classify images of cats and dogs.</p>
 
+  <p>The dataset that was used in the project can be downloaded here: <a href="https://www.microsoft.com/en-us/download/details.aspx?id=54765">Kaggle Cats and Dogs Dataset</a></a></p>
+
   <h2>Requirements</h2>
 
   <ul>
